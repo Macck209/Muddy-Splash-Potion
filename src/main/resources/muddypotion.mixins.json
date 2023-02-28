@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.macck209.muddySplashPotion.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MuddyPotionMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
